@@ -22,6 +22,9 @@
 
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest.
 
+![WhatsApp Image 2023-12-28 at 23 21 17_e996e03d](https://github.com/Kuldeep-Nayak/Book-Recommender-System_Collaborative-based-filtering/assets/138770146/bfb5c667-c2c6-4bfd-9d69-8b0697c8fdc3)
+
+
 # Dataset has been used:
 
 * [Dataset link](https://www.kaggle.com/ra4u12/bookrecommendation)
@@ -39,3 +42,10 @@ This is a streamlit web application that can recommend various kinds of similar 
 5 . Sort the calculated distances in ascending order based on distance values
 	
 6 . Get top k rows from the sorted array
+
+
+This is a team project of 5 members in Skill and Project Lab in 5th semester during B.Tech. CSE.
+
+
+# Reference 
+https://youtube.com/playlist?list=PLkz_y24mlSJa37r2xNDyEgt0Z4ilHtJ07&si=pyTOkQCF2o2n3d95
