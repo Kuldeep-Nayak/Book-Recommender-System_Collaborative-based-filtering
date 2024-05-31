@@ -1,4 +1,4 @@
-### Collaborative Based :
+### Collaborative Based Filtering:
 		
 - Collaborative filtering systems, which are based on user-item interactions.
 	
