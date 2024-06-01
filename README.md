@@ -43,9 +43,7 @@ This is a streamlit web application that can recommend various kinds of similar 
 	
 6 . Get top k rows from the sorted array
 
-
-#### This is a team project of 5 members in the Skill and Project Lab in 5th semester during B.Tech. CSE.
-
-
 # Reference:
 https://youtube.com/playlist?list=PLkz_y24mlSJa37r2xNDyEgt0Z4ilHtJ07&si=pyTOkQCF2o2n3d95
+
+#### This is a team project of 5 members in the Skill and Project Lab in 5th semester during B.Tech. CSE.
