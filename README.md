@@ -46,7 +46,8 @@ This is a streamlit web application that can recommend various kinds of similar 
 # Reference:
 https://youtube.com/playlist?list=PLkz_y24mlSJa37r2xNDyEgt0Z4ilHtJ07&si=pyTOkQCF2o2n3d95
 
-#### This is a team project of 5 members in the Skill and Project Lab in 5th semester during B.Tech. CSE.
+#### This is a team project of 5 members completed in the Internet and Web Technology Lab during the 5th semester of my B.Tech. CSE.
+
 #### Other team members of this project:
 #### Abhisek Sahu  
 **Bimalendu Meher**: https://github.com/BimalenduMeher  
