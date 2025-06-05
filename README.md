@@ -49,7 +49,7 @@ https://youtube.com/playlist?list=PLkz_y24mlSJa37r2xNDyEgt0Z4ilHtJ07&si=pyTOkQCF
 #### This is a team project of 5 members completed in the Skill and Project Lab during the 5th semester of my B.Tech. CSE.
 
 #### Other team members of this project:
-#### Abhisek Sahu  
+**Abhisek Sahu**: https://www.linkedin.com/in/abhisek-sahu-577075272/  
 **Bimalendu Meher**: https://github.com/BimalenduMeher  
 #### Praveen Kumar Gonjhu  
 **Suryanshu Kumar Patra**: https://www.linkedin.com/in/suryanshu-kumar-patra-a60987228/
